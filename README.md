@@ -1,6 +1,6 @@
 # Meu README com contador
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=guilhermetwelve0.Readme&left_color=green&right_color=blue)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=guilhermetwelve0-Readme-md&left_color=green&right_color=blue)
 
 Este repositório demonstra como adicionar um contador de visitas no GitHub utilizando uma badge externa.
 
